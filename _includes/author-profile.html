@@ -228,14 +228,10 @@
         <li><a href="#"><i class="fa-solid fa-globe ai-fw icon-pad-right" aria-hidden="true"></i>{% for lang in author.languages %}{{ lang }}{% if forloop.last == false %} / {% endif %}{% endfor %}</a></li>
       {% endif %} -->
       {% if author.languages %}
-        <li>
-          <i class="fa-solid fa-globe ai-fw icon-pad-right" aria-hidden="true"></i>
-          <span{% if author.languages.tooltip %} title="{{ author.languages.tooltip }}"{% endif %}>
-            {% for lang in author.languages.list %}{{ lang }}{% if forloop.last == false %} / {% endif %}{% endfor %}
-          </span>
+        <li><i class="fa-solid fa-globe ai-fw icon-pad-right" aria-hidden="true"></i>
+          <span{% if author.languages.tooltip %} title="{{ author.languages.tooltip }}"{% endif %}>{% for lang in author.languages.list %}{{ lang }}{% if forloop.last == false %} / {% endif %}{% endfor %}</span>
         </li>
       {% endif %}
-
       {% if author.programming %}
         <li><a href="#"><i class="fa-solid fa-code ai-fw icon-pad-right" aria-hidden="true"></i>{% for lang in author.programming %}{{ lang }}{% if forloop.last == false %} / {% endif %}{% endfor %}</a></li>
       {% endif %}
