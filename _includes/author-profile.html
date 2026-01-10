@@ -24,6 +24,13 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
+      {% if author.researchgroup %}
+        <li>
+          <a href="{{ author.researchgroup }}">
+            CASPEr Project, Budker Group
+          </a>
+        </li>
+      {% endif %}
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
@@ -83,13 +90,7 @@
       <!-- {% if author.researchgroup %}
         <li><a href="{{ author.researchgroup }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %} -->
-      {% if author.researchgroup %}
-        <li>
-          <a href="{{ author.researchgroup }}">
-            CASPEr Project, Budker Group
-          </a>
-        </li>
-      {% endif %}
+
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
