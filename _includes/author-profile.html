@@ -59,12 +59,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %} -->
       {% if author.email %}
-        <li>
-          <a href="mailto:{{ author.email }}">
-            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
-            email: {{ author.email }}
-          </a>
-        </li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email: {{ author.email }}</a></li>
       {% endif %}
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
@@ -210,21 +205,13 @@
       {% endif %}      
 
       {% if author.languages %}
-        <li>
-          <a href="#">
-            <i class="fa-solid fa-globe ai-fw icon-pad-right" aria-hidden="true"></i>
-            {% for lang in author.languages %}
-              {{ lang }}{% if forloop.last == false %} / {% endif %}
-            {% endfor %}
-          </a>
-        </li>
-      {% endif %}
+        <li><a href="#"><i class="fa-solid fa-globe ai-fw icon-pad-right" aria-hidden="true"></i>{% for lang in author.languages %}{{ lang }}{% if forloop.last == false %} / {% endif %}{% endfor %}</a></li>{% endif %}
       {% if author.programming %}
         <li>
           <a href="#">
             <i class="fa-solid fa-code ai-fw icon-pad-right" aria-hidden="true"></i>
             {% for lang in author.programming %}
-              {{ lang }}{% if forloop.last == false %} / {% endif %}
+            {{ lang }}{% if forloop.last == false %} / {% endif %}
             {% endfor %}
           </a>
         </li>
