@@ -27,10 +27,13 @@ author:
   name             : "张宇哲 Yuzhe ZHANG"
   pronouns         : "he / him" # example: "she/her"  
   bio              : "Ph.D. student working on axionlike dark matter direct detection via nuclear magnetic resonance."
+  researchgroup    : 
+    name: CASPEr Project, Budker Group
+    url: "https://budker.uni-mainz.de/?page_id=7"
   location         : "Mainz, Germany"
   employer         : # 
   institute        : "GSI Helmholtz Institute Mainz"
-  university      : "University of Mainz"
+  university       : "University of Mainz"
   uri              : # URL
   email            : "yuhzhang@uni-mainz.de" 
 
@@ -47,7 +50,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  researchgroup    : "https://budker.uni-mainz.de/?page_id=7"
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
