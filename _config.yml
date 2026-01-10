@@ -28,12 +28,17 @@ author:
   pronouns         : "he / him" # example: "she/her"  
   bio              : "Ph.D. student working on axionlike dark matter direct detection via nuclear magnetic resonance."
   researchgroup    : 
-    name: CASPEr Project, Budker Group
+    name: "CASPEr Project, Budker Group"
     url: "https://budker.uni-mainz.de/?page_id=7"
   location         : "Mainz, Germany"
   employer         : # 
-  institute        : "GSI Helmholtz Institute Mainz"
-  university       : "University of Mainz"
+  # institute        : "GSI Helmholtz Institute Mainz"
+  institute    : 
+    name: "GSI Helmholtz Institute Mainz"
+    url: "https://www.hi-mainz.de/"
+  university    : 
+    name: "University of Mainz"
+    url: "https://www.uni-mainz.de/"
   uri              : # URL
   email            : "yuhzhang@uni-mainz.de" 
 
