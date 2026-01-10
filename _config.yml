@@ -24,11 +24,12 @@ repository               : "Yuzhe98/yuzhe98.github.io"
 author:
   # Biographic information
   avatar           : "Yuzhe.jpg"
-  name             : "Yuzhe ZHANG"
+  name             : "张宇哲 Yuzhe ZHANG"
   pronouns         : "he / him" # example: "she/her"  
-  bio              : "Ph.D. student in axionlike dark matter research"
+  bio              : "Ph.D. student working on axionlike dark matter direct detection via nuclear magnetic resonance."
   location         : "Mainz, Germany"
-  employer         : "GSI Helmholtz Institute Mainz / Uni Mainz"
+  employer         : # 
+  affiliation      : "GSI Helmholtz Institute Mainz \n Univeristy of Mainz"
   uri              : # URL
   email            : "yuhzhang@uni-mainz.de" 
 
@@ -45,6 +46,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  researchgroup    : "https://budker.uni-mainz.de/?page_id=7"
 
 
   # Repositories and software development

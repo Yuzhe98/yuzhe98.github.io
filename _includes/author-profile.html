@@ -30,6 +30,12 @@
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
+      {% if author.affiliation %}
+        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.affiliation }}</li>
+      {% endif %}
+      {% if author.affiliation2 %}
+        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.affiliation2 }}</li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -73,6 +79,16 @@
       {% endif %}
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
+      {% endif %}
+      <!-- {% if author.researchgroup %}
+        <li><a href="{{ author.researchgroup }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
+      {% endif %} -->
+      {% if author.researchgroup %}
+        <li>
+          <a href="{{ author.researchgroup }}">
+            CASPEr Project, Budker Group
+          </a>
+        </li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
