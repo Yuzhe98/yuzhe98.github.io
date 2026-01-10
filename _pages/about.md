@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! 
+Do you also like atoms and the universe? 
 <!-- I am a *PhD* student working on precision measurement and dark matter research.  -->
 
 ---
@@ -63,7 +63,7 @@ Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin
 
 ---
 
-### Academic activities
+### Academic Presentations
 
 <div style="margin-left: 103px; text-indent: -103px;">
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
@@ -90,7 +90,7 @@ Local organizer
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16th Patras Workshop on Axions, WIMPs and WISPs
 </div>
 <div style="margin-left: 103px; text-indent: -0px;">
-Invited talk
+Regular talk
 </div>
 
 
@@ -120,7 +120,7 @@ Winter Semester 2025/26, University of Mainz
 
 ### Languages
 
-- **Chinese (Mandarin)** - Native
+- **Chinese** - Native
 - **English** - Fluent (professional working proficiency)
 
 
