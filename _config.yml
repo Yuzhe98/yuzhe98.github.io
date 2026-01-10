@@ -62,8 +62,8 @@ author:
   - Chinese
   - English
   programming:
-  - Python
-  - C/C++
+  # - Python
+  # - C/C++
 
 
 

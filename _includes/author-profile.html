@@ -106,26 +106,7 @@
       <!-- {% if author.researchgroup %}
         <li><a href="{{ author.researchgroup }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %} -->
-      {% if author.languages %}
-        <li>
-          <a href="#">
-            <i class="fa-solid fa-globe ai-fw icon-pad-right" aria-hidden="true"></i>
-            {% for lang in author.languages %}
-              {{ lang }}{% if forloop.last == false %} / {% endif %}
-            {% endfor %}
-          </a>
-        </li>
-      {% endif %}
-      {% if author.programming %}
-        <li>
-          <a href="#">
-            <i class="fa-solid fa-code ai-fw icon-pad-right" aria-hidden="true"></i>
-            {% for lang in author.programming %}
-              {{ lang }}{% if forloop.last == false %} / {% endif %}
-            {% endfor %}
-          </a>
-        </li>
-      {% endif %}
+      
 
 
 
@@ -227,6 +208,27 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
+
+      {% if author.languages %}
+        <li>
+          <a href="#">
+            <i class="fa-solid fa-globe ai-fw icon-pad-right" aria-hidden="true"></i>
+            {% for lang in author.languages %}
+              {{ lang }}{% if forloop.last == false %} / {% endif %}
+            {% endfor %}
+          </a>
+        </li>
+      {% endif %}
+      {% if author.programming %}
+        <li>
+          <a href="#">
+            <i class="fa-solid fa-code ai-fw icon-pad-right" aria-hidden="true"></i>
+            {% for lang in author.programming %}
+              {{ lang }}{% if forloop.last == false %} / {% endif %}
+            {% endfor %}
+          </a>
+        </li>
+      {% endif %}
     </ul>
   </div>
 </div>
