@@ -59,8 +59,11 @@ author:
 
   # languages and skills
   languages:
-  - Chinese
-  - English
+    list:
+      - Chinese
+      - English
+    tooltip: "Native Chinese speaker with 7 years of experience in English-speaking academic environment. "
+
   programming:
   # - Python
   # - C/C++
