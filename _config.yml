@@ -32,7 +32,6 @@ author:
     url: "https://budker.uni-mainz.de/?page_id=7"
   location         : "Mainz, Germany"
   employer         : # 
-  # institute        : "GSI Helmholtz Institute Mainz"
   institute    : 
     name: "GSI Helmholtz Institute Mainz"
     url: "https://www.hi-mainz.de/"

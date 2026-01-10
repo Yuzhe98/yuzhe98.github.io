@@ -69,6 +69,14 @@
           </a>
         </li>
       {% endif %}
+      {% if author.university %}
+        <li class="author__desktop">
+          <i class="fas fa-fw fa-university icon-pad-right" aria-hidden="true"></i>
+          <a href="{{ author.university.url }}" target="_blank" rel="noopener noreferrer">
+            {{ author.university.name }}
+          </a>
+        </li>
+      {% endif %}
 
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
