@@ -29,8 +29,8 @@ author:
   bio              : "Ph.D. student working on axionlike dark matter direct detection via nuclear magnetic resonance."
   location         : "Mainz, Germany"
   employer         : # 
-  affiliation      : "GSI Helmholtz Institute Mainz"
-  affiliation2     : "University of Mainz"
+  institute        : "GSI Helmholtz Institute Mainz"
+  university      : "University of Mainz"
   uri              : # URL
   email            : "yuhzhang@uni-mainz.de" 
 
