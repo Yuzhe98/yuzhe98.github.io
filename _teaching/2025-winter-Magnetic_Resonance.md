@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate & master course"
 permalink: /teaching/2025-winter
 venue: "University of Mainz"
-date: Winter semester 2025/26
+date: 2025-10-01
 location: "Mainz, Germany"
 ---
 
