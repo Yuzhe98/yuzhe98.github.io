@@ -51,15 +51,15 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 
 [1] J. Walter, O. Maliaka, **Y. Zhang**, *et al.*, "*Search for axionlike dark matter using liquid-state nuclear magnetic resonance*," *Phys. Rev. D*, vol. 112, p. 052 008, 5 Sep. 2025. DOI: [10.1103/39nc-vr9m](https://doi.org/10.1103/39nc-vr9m).
 
-**One of three first authors in this first experimental result of CASPEr-Gradient.**
+- **One of three first authors in this first experimental result of CASPEr-Gradient.**
 
-Contribution: Construction of the apparatus and data taking / Calculations and analysis / Manuscript writing / Coordination in the CASPEr collaboration.
+- Contribution: Construction of the apparatus and data taking / Calculations and analysis / Manuscript writing / Coordination in the CASPEr collaboration.
 
 [2] **Y. Zhang**, D. A. Tumturk, H. Bekker, *et al.*, "*Frequency-scanning considerations in axionlike dark matter spin-precession experiments*," *Annalen der Physik*, vol. 536, no. 1, p. 2 300 223, 2024. DOI: [10.1002/andp.202300223](https://doi.org/10.1002/andp.202300223).
 
-**First and corresponding author.**
+- **First and corresponding author.**
 
-Contribution: All calculations and analysis in this theoretical work / All manuscript writing / Coordination in the CASPEr collaboration.
+- Contribution: All calculations and analysis in this theoretical work / All manuscript writing / Coordination in the CASPEr collaboration.
 
 <!-- _For a full list of publications, see [My Publications](https://yuzhe98.github.io/publications/)_ -->
 
@@ -67,24 +67,24 @@ Contribution: All calculations and analysis in this theoretical work / All manus
 
 ##  Education
 
-<div style="margin-left: 114px; text-indent: -114px;">
+<div style="margin-left: 113px; text-indent: -113px;">
 2022 - Now&emsp;&nbsp;<i>Ph.D.</i> in progress, Physics, University of Mainz.
 </div>
-<div style="margin-left: 114px; text-indent: 0px;">
+<div style="margin-left: 113px; text-indent: 0px;">
 Thesis: <i>Search for axion-like particle as dark matter candidate with nuclear magnetic resonance</i>
 </div>
 
-<div style="margin-left: 114px; text-indent: -114px;">
+<div style="margin-left: 113px; text-indent: -113px;">
 2020 - 2022&emsp;Master of Science, Physics, University of Mainz.
 </div>
-<div style="margin-left: 114px; text-indent: 0px;">
+<div style="margin-left: 113px; text-indent: 0px;">
 Thesis: <i>Search for axion-like particles by performing NMR on a thermally polarized sample</i>
 </div>
 
-<div style="margin-left: 114px; text-indent: -114px;">
+<div style="margin-left: 113px; text-indent: -113px;">
 2016 - 2020&emsp;Bachelor of Science, Physics, University of Science and Technology of China.
 </div>
-<div style="margin-left: 114px; text-indent: 0px;">
+<div style="margin-left: 113px; text-indent: 0px;">
 Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin-Electron Spin System</i>
 </div>
 
@@ -94,49 +94,55 @@ Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin
 <!-- --- -->
 
 ##  Academic Presentations
+<!-- |  |  |
+|--|--|
+| 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region<br>*Regular talk* | -->
 
-<div style="margin-left: 114px; text-indent: -114px;">
-2023&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
+<div style="margin-left: 113px; text-indent: -113px;">
+2023&emsp;&emsp;&emsp;&emsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
 </div>
-<div style="margin-left: 114px; text-indent: -0px;">
+<div style="margin-left: 113px; text-indent: -0px;">
 Regular talk
 </div>
 
-<div style="margin-left: 114px; text-indent: -114px;">
-2022&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Seminar at Institute of Theoretical Physics, Chinese Academy of Sciences
+<div style="margin-left: 113px; text-indent: -113px;">
+2022&emsp;&emsp;&emsp;&emsp;Seminar at Institute of Theoretical Physics, Chinese Academy of Sciences
 </div>
-<div style="margin-left: 114px; text-indent: -0px;">
+<div style="margin-left: 113px; text-indent: -0px;">
 Invited talk
 </div>
 
-<div style="margin-left: 114px; text-indent: -114px;">
-2022&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;17th Patras Workshop on Axions, WIMPs and WISPs
+<div style="margin-left: 113px; text-indent: -113px;">
+2022&emsp;&emsp;&emsp;&emsp;17th Patras Workshop on Axions, WIMPs and WISPs
 </div>
-<div style="margin-left: 114px; text-indent: -0px;">
+<div style="margin-left: 113px; text-indent: -0px;">
 Local organizer
 </div>
 
-<div style="margin-left: 114px; text-indent: -114px;">
-2021&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;16th Patras Workshop on Axions, WIMPs and WISPs
+<div style="margin-left: 113px; text-indent: -113px;">
+2021&emsp;&emsp;&emsp;&emsp;16th Patras Workshop on Axions, WIMPs and WISPs
 </div>
-<div style="margin-left: 114px; text-indent: -0px;">
+<div style="margin-left: 113px; text-indent: -0px;">
 Regular talk
 </div>
+
+
+
 
 
 <!-- --- -->
 
 ##  Teaching
 
-<div style="margin-left: 114px; text-indent: -114px;">
+<div style="margin-left: 113px; text-indent: -113px;">
 2025 - 2026&emsp;Assistant in Magnetic resonance, Advanced physics laboratory course (F-Praktikum)
 </div>
-<div style="margin-left: 114px; text-indent: -0px;">
+<div style="margin-left: 113px; text-indent: -0px;">
 Winter Semester 2025/26, University of Mainz
 </div>
 
-<div style="margin-left: 114px; text-indent: -114px;">
-2024&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;An education paper on scientific viewgraphs: <b>Yuzhe Zhang</b> and Dmitry Budker, "<i>Some rules of good scientific viewgraphs</i>," <a href="https://zenodo.org/records/13134573">https://zenodo.org/records/13134573 (2024)</a>; Later published in Chinese on <a href="http://www.jicejishu.net:8085/jcjs/article/abstract/20250213">[J].Metrology & Measurement Technology 45(2):1-4 (2025)</a>
+<div style="margin-left: 113px; text-indent: -113px;">
+2024&emsp;&emsp;&emsp;&emsp;An education paper on scientific viewgraphs: <b>Yuzhe Zhang</b> and Dmitry Budker, "<i>Some rules of good scientific viewgraphs</i>," <a href="https://zenodo.org/records/13134573">https://zenodo.org/records/13134573 (2024)</a>; Later published in Chinese on <a href="http://www.jicejishu.net:8085/jcjs/article/abstract/20250213">[J].Metrology & Measurement Technology 45(2):1-4 (2025)</a>
 </div>
 
 <!-- --- -->
