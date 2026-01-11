@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 # site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-site_theme               : "air" 
-# site_theme               : "sunrise" 
+# site_theme               : "air" 
+site_theme               : "sunrise" 
 # site_theme               : "mint" 
 # site_theme               : "dirt" 
 # site_theme               : "contrast" 
@@ -31,7 +31,7 @@ author:
   avatar           : "Yuzhe.jpg"
   name             : "张宇哲 Yuzhe ZHANG"
   pronouns         : "He/Him/His" # example: "she/her"  
-  bio              : "Researcher in Physics"
+  bio              : "Ph.D. student in Physics"
   researchgroup    : 
     name: "CASPEr Project, Budker Group"
     url: "https://budker.uni-mainz.de/?page_id=7"
