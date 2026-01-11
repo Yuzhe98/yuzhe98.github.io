@@ -9,8 +9,6 @@ redirect_from:
 
 Do you also like atoms and the universe? 
 
-<!-- --- -->
-
 ##  Research
 
 I am currently working at the cosmic axion spin precession experiment (**CASPEr**) in the Budker Group. We want to use nuclear magnetic resonance (**NMR**) and **quantum sensing** (superconducting quantum interference device, or SQUID🦑) to find **axion** or **axionlike particles**, which are **dark matter** candidates. 
@@ -45,7 +43,6 @@ Constraints on axion's or axionlike particles' coupling to protons. Dashed lines
 
 Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by Prof. Dong Sheng. It was also fun! 
 
-<!-- --- -->
 
 ##  Selected Publications
 
@@ -63,7 +60,7 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 
 <!-- _For a full list of publications, see [My Publications](https://yuzhe98.github.io/publications/)_ -->
 
-<!-- --- -->
+
 
 ##  Education
 
@@ -188,7 +185,7 @@ Regular talk
 
 
 
-<!-- --- -->
+
 
 ##  Teaching
 
@@ -226,7 +223,7 @@ Winter Semester 2025/26, University of Mainz
 <!-- [Download my CV (PDF)](assets/CV.pdf) -->
 [Download my One-Page Resume (PDF)](https://zenodo.org/records/18209548)
 
-<!-- --- -->
+
 
 ##  Languages
 
