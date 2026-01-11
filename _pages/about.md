@@ -67,7 +67,7 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 
 ##  Education
 
-<div style="margin-left: 112px; text-indent: -112px;">
+<!-- <div style="margin-left: 112px; text-indent: -112px;">
 2022 - Now&emsp;&nbsp;<i>Ph.D.</i> in progress, Physics, University of Mainz.
 </div>
 <div style="margin-left: 112px; text-indent: 0px;">
@@ -86,19 +86,77 @@ Thesis: <i>Search for axion-like particles by performing NMR on a thermally pola
 </div>
 <div style="margin-left: 112px; text-indent: 0px;">
 Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin-Electron Spin System</i>
-</div>
+</div> -->
 
 
-<!-- Relevant training: Soft skills courses at **Helmholtz Graduate School for Hadron and Ion Research (HGS-HIRe)**   -->
+<table>
+  <tr>
+    <td style="width: 80px; vertical-align: mid;">2022 – Now</td>
+    <td>
+      <i>Ph.D.</i> in progress, Physics, University of Mainz.<br>
+      Thesis: <em>Search for axion-like particle as dark matter candidate with nuclear magnetic resonance</em>
+    </td>
+  </tr>
+  <tr>
+    <td>2020 – 2022</td>
+    <td>
+      Master of Science, Physics, University of Mainz.<br>
+      Thesis: <em>Search for axion-like particles by performing NMR on a thermally polarized sample</em>
+    </td>
+  </tr>
+  <tr>
+    <td>2016 – 2020</td>
+    <td>
+      Bachelor of Science, Physics, University of Science and Technology of China.<br>
+      Thesis: <em>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin–Electron Spin System</em>
+    </td>
+  </tr>
+</table>
 
-<!-- --- -->
 
 ##  Academic Presentations
 <!-- |  |  |
 |--|--|
+| 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region<br>*Regular talk* |
+
+| 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region<br>*Regular talk* |
+|------|------------------------------------------------------------------------------------------------|
+| 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region<br>*Regular talk* |
+
+
+| 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region<br>*Regular talk* |
 | 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region<br>*Regular talk* | -->
 
-<div style="margin-left: 112px; text-indent: -112px;">
+
+<!-- | <span style="font-weight:normal">2023</span> | <span style="font-weight:normal">Academic Seminar of Chinese Students and Scholars in the German-French Region<br><em>Regular talk</em></span> |
+|---|---|
+| 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region<br>*Regular talk* |
+| 2022 | Seminar at Institute of Theoretical Physics, Chinese Academy of Sciences<br>*Invited talk* |
+| 2022 | 17th Patras Workshop on Axions, WIMPs and WISPs<br>*Local organizer* |
+| 2021 | 16th Patras Workshop on Axions, WIMPs and WISPs<br>*Regular talk* | -->
+
+<table>
+  <tr>
+    <td style="width: 80px; vertical-align: mid;">2023</td>
+    <td>Academic Seminar of Chinese Students and Scholars in the German-French Region<br><em>Regular talk</em></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Seminar at Institute of Theoretical Physics, Chinese Academy of Sciences<br><em>Invited talk</em></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>17th Patras Workshop on Axions, WIMPs and WISPs<br><em>Local organizer</em></td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>16th Patras Workshop on Axions, WIMPs and WISPs<br><em>Regular talk</em></td>
+  </tr>
+</table>
+
+
+
+<!-- <div style="margin-left: 112px; text-indent: -112px;">
 2023&emsp;&emsp;&emsp;&emsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
 </div>
 <div style="margin-left: 112px; text-indent: -0px;">
@@ -124,7 +182,7 @@ Local organizer
 </div>
 <div style="margin-left: 112px; text-indent: -0px;">
 Regular talk
-</div>
+</div> -->
 
 
 
@@ -134,18 +192,34 @@ Regular talk
 
 ##  Teaching
 
-<div style="margin-left: 112px; text-indent: -112px;">
+<!-- <div style="margin-left: 112px; text-indent: -112px;">
 2025 - 2026&emsp;Assistant in Magnetic resonance, Advanced physics laboratory course (F-Praktikum)
 </div>
 <div style="margin-left: 112px; text-indent: -0px;">
 Winter Semester 2025/26, University of Mainz
-</div>
+</div> -->
 
-<div style="margin-left: 112px; text-indent: -112px;">
+<!-- <div style="margin-left: 112px; text-indent: -112px;">
 2024&emsp;&emsp;&emsp;&emsp;An education paper on scientific viewgraphs: <b>Yuzhe Zhang</b> and Dmitry Budker, "<i>Some rules of good scientific viewgraphs</i>," <a href="https://zenodo.org/records/13134573">https://zenodo.org/records/13134573 (2024)</a>; Later published in Chinese on <a href="http://www.jicejishu.net:8085/jcjs/article/abstract/20250213">[J].Metrology & Measurement Technology 45(2):1-4 (2025)</a>
-</div>
+</div> -->
 
-<!-- --- -->
+<table>
+  <tr>
+    <td style="width: 80px; vertical-align: mid;">2025 – 2026</td>
+    <td>
+      Assistant in Magnetic Resonance, Advanced Physics Laboratory Course (F-Praktikum)<br>
+      <em>Winter Semester 2025/26, University of Mainz</em>
+    </td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>
+      An education paper on scientific viewgraphs: <b>Y. Zhang</b> and D. Budker, "<i>Some rules of good scientific viewgraphs</i>," <a href="https://zenodo.org/records/13134573">https://zenodo.org/records/13134573 (2024)</a>;<br> Later published in Chinese on <a href="http://www.jicejishu.net:8085/jcjs/article/abstract/20250213">[J].Metrology & Measurement Technology 45(2):1-4 (2025)</a>
+    </td>
+  </tr>
+</table>
+
+
 
 ##  CV / Resume
 
