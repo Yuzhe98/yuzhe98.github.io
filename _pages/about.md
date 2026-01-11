@@ -26,27 +26,29 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 
 ### Selected Publications
 
-1. J. Walter, O. Maliaka, **Yuzhe Zhang**, *et al.*, "*Search for axionlike dark matter using liquid-state nuclear magnetic resonance*," *Phys. Rev. D*, vol. 112, p. 052 008, 5 Sep. 2025. DOI: [10.1103/39nc-vr9m](https://doi.org/10.1103/39nc-vr9m).
+[1] J. Walter, O. Maliaka, **Y. Zhang**, *et al.*, "*Search for axionlike dark matter using liquid-state nuclear magnetic resonance*," *Phys. Rev. D*, vol. 112, p. 052 008, 5 Sep. 2025. DOI: [10.1103/39nc-vr9m](https://doi.org/10.1103/39nc-vr9m).
+
 **One of three first authors in this first experimental result of CASPEr-Gradient.**
+
 Contribution: Construction of the apparatus and data taking / Calculations and analysis / Manuscript writing / Coordination in the CASPEr collaboration.
 
-1. **Yuzhe Zhang**, D. A. Tumturk, H. Bekker, *et al.*, "*Frequency-scanning considerations in axionlike dark matter spin-precession experiments*," *Annalen der Physik*, vol. 536, no. 1, p. 2 300 223, 2024. DOI: [10.1002/andp.202300223](https://doi.org/10.1002/andp.202300223).
+[2] **Y. Zhang**, D. A. Tumturk, H. Bekker, *et al.*, "*Frequency-scanning considerations in axionlike dark matter spin-precession experiments*," *Annalen der Physik*, vol. 536, no. 1, p. 2 300 223, 2024. DOI: [10.1002/andp.202300223](https://doi.org/10.1002/andp.202300223).
+
 **First and corresponding author.**
+
 Contribution: All calculations and analysis in this theoretical work / All manuscript writing / Coordination in the CASPEr collaboration.
+
 <!-- _For a full list of publications, see [My Publications](https://yuzhe98.github.io/publications/)_ -->
 
 ---
 
 ### Education
 
-<div style="margin-left: 103px; text-indent: -103px;">
-2022 - Now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Ph.D.</i> in progress, Physics, University of Mainz.
-</div>
-<div style="margin-left: 103px; text-indent: 0px;"> Thesis: <i>Search for axion-like particle as dark matter candidate with nuclear magnetic resonance</i>
-</div>
+2022 - Now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ph.D.* in progress, Physics, University of Mainz.
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Thesis: *Search for axion-like particle as dark matter candidate with nuclear magnetic resonance*
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<!-- <div style="margin-left: 103px; text-indent: -103px;">
 2020 - 2022&nbsp;&nbsp;&nbsp;&nbsp;Master of Science, Physics, University of Mainz.
 </div>
 <div style="margin-left: 103px; text-indent: 0px;"> Thesis: <i>Search for axion-like particles by performing NMR on a thermally polarized sample</i>
@@ -57,7 +59,15 @@ Contribution: All calculations and analysis in this theoretical work / All manus
 </div>
 <div style="margin-left: 103px; text-indent: 0px;">
 Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin-Electron Spin System</i>
-</div>
+</div> -->
+2020 - 2022&nbsp;&nbsp;&nbsp;&nbsp;Master of Science, Physics, University of Mainz.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Thesis: *Search for axion-like particles by performing NMR on a thermally polarized sample*
+
+2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Physics, University of Science and Technology of China.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Thesis: *Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin-Electron Spin System*
+
 
 <!-- Relevant training: Soft skills courses at **Helmholtz Graduate School for Hadron and Ion Research (HGS-HIRe)**   -->
 
