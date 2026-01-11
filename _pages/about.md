@@ -94,8 +94,35 @@ Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin
 
 ##  Academic Presentations
 
+2023
+: Academic Seminar of Chinese Students and Scholars in the German-French Region  
+  *Regular talk*
+
+
+<div class="entry">
+  <span class="year">2023</span>
+  <div>
+    Academic Seminar of Chinese Students and Scholars in the German-French Region  
+    *Regular talk*
+  </div>
+</div>
+
+<div class="entry">
+  <span class="year">2023 - 2024</span>
+  <div>
+    Academic Seminar of Chinese Students and Scholars in the German-French Region  
+    *Regular talk*
+  </div>
+</div>
+
+| 2023 | Academic Seminar of Chinese Students and Scholars in the German-French Region |
+|      | *Regular talk* |
+|------|---------------------------------------------|
+
+
+
 <div style="margin-left: 115px; text-indent: -115px;">
-2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
 </div>
 <div style="margin-left: 115px; text-indent: -0px;">
 Regular talk
