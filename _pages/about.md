@@ -16,7 +16,16 @@ Do you also like atoms and the universe?
 
 I am currently working at the cosmic axion spin precession experiment (**CASPEr**) in the Budker Group. We want to use nuclear magnetic resonance (**NMR**) and **quantum sensing** (superconducting quantum interference device, or SQUID🦑) to find **axion** or **axionlike particles**, which are **dark matter** candidates. 
 
-![Constraints on axion's or axionlike particles' coupling to protons. Dashed lines indicate projections while solid lines indicates constraints that have been made. ](images\AxionProton_with_Projections.png)
+<!-- ![AxionProton with Projections](images\AxionProton_with_Projections.png)
+
+Constraints on axion's or axionlike particles' coupling to protons. Dashed lines indicate projections while solid lines indicates constraints that have been made.  -->
+
+<div style="text-align: center;">
+  <img src="images/AxionProton_with_Projections.png" alt="Axion coupling constraints" style="max-width: 600px; width: 100%;">
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+    Constraints on axion's or axionlike particles' coupling to protons. Projections are indicated by sashed lines. Credit: Ciaran O'Hare. 
+  </p>
+</div>
 
 > [Learn more about the CASPEr Project](https://budker.uni-mainz.de/?page_id=7)
 
@@ -44,42 +53,24 @@ Contribution: All calculations and analysis in this theoretical work / All manus
 
 ### Education
 
-<!-- 2022 - Now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ph.D.* in progress, Physics, University of Mainz.
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Thesis: *Search for axion-like particle as dark matter candidate with nuclear magnetic resonance* -->
-
-
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2022 - Now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Ph.D.</i> in progress, Physics, University of Mainz.
 </div>
-<div style="margin-left: 107px; text-indent: 0px;"> Thesis: <i>Search for axion-like particle as dark matter candidate with nuclear magnetic resonance</i>
+<div style="margin-left: 110px; text-indent: 0px;"> Thesis: <i>Search for axion-like particle as dark matter candidate with nuclear magnetic resonance</i>
 </div>
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2020 - 2022&nbsp;&nbsp;&nbsp;&nbsp;Master of Science, Physics, University of Mainz.
 </div>
-<div style="margin-left: 108px; text-indent: 0px;"> Thesis: <i>Search for axion-like particles by performing NMR on a thermally polarized sample</i>
+<div style="margin-left: 110px; text-indent: 0px;"> Thesis: <i>Search for axion-like particles by performing NMR on a thermally polarized sample</i>
 </div>
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Physics, University of Science and Technology of China.
 </div>
-<div style="margin-left: 105px; text-indent: 0px;">
+<div style="margin-left: 110px; text-indent: 0px;">
 Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin-Electron Spin System</i>
 </div>
-
-> **2020 - 2022** This is a long text that wraps naturally with blockquote indentation.
-
-<div style="margin-left: 120px; padding-left: 10px;">
-<strong>2020 - 2022</strong> This is a long text that wraps to multiple lines with consistent indentation.
-</div>
-<!-- 2020 - 2022&nbsp;&nbsp;&nbsp;&nbsp;Master of Science, Physics, University of Mainz.
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Thesis: *Search for axion-like particles by performing NMR on a thermally polarized sample*
-
-2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Physics, University of Science and Technology of China.
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Thesis: *Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin-Electron Spin System* -->
 
 
 <!-- Relevant training: Soft skills courses at **Helmholtz Graduate School for Hadron and Ion Research (HGS-HIRe)**   -->
@@ -88,31 +79,31 @@ Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin
 
 ### Academic Presentations
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
 </div>
-<div style="margin-left: 103px; text-indent: -0px;">
+<div style="margin-left: 110px; text-indent: -0px;">
 Regular talk
 </div>
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar at Institute of Theoretical Physics, Chinese Academy of Sciences
 </div>
-<div style="margin-left: 103px; text-indent: -0px;">
+<div style="margin-left: 110px; text-indent: -0px;">
 Invited talk
 </div>
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17th Patras Workshop on Axions, WIMPs and WISPs
 </div>
-<div style="margin-left: 103px; text-indent: -0px;">
+<div style="margin-left: 110px; text-indent: -0px;">
 Local organizer
 </div>
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16th Patras Workshop on Axions, WIMPs and WISPs
 </div>
-<div style="margin-left: 103px; text-indent: -0px;">
+<div style="margin-left: 110px; text-indent: -0px;">
 Regular talk
 </div>
 
@@ -121,14 +112,14 @@ Regular talk
 
 ### Teaching
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2025 - 2026&nbsp;&nbsp;&nbsp;&nbsp;Assistant in Magnetic resonance, Advanced physics laboratory course (F-Praktikum)
 </div>
-<div style="margin-left: 103px; text-indent: -0px;">
+<div style="margin-left: 110px; text-indent: -0px;">
 Winter Semester 2025/26, University of Mainz
 </div>
 
-<div style="margin-left: 103px; text-indent: -103px;">
+<div style="margin-left: 110px; text-indent: -110px;">
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An education paper on scientific viewgraphs: <b>Yuzhe Zhang</b> and Dmitry Budker, "<i>Some rules of good scientific viewgraphs</i>," <a href="https://zenodo.org/records/13134573">https://zenodo.org/records/13134573 (2024)</a>; Later published in Chinese on <a href="http://www.jicejishu.net:8085/jcjs/article/abstract/20250213">[J].Metrology & Measurement Technology 45(2):1-4 (2025)</a>
 </div>
 
