@@ -12,7 +12,7 @@ Do you also like atoms and the universe?
 
 ---
 
-### Research
+##  Research
 
 I am currently working at the cosmic axion spin precession experiment (**CASPEr**) in the Budker Group. We want to use nuclear magnetic resonance (**NMR**) and **quantum sensing** (superconducting quantum interference device, or SQUID🦑) to find **axion** or **axionlike particles**, which are **dark matter** candidates. 
 
@@ -48,7 +48,7 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 
 ---
 
-### Selected Publications
+##  Selected Publications
 
 [1] J. Walter, O. Maliaka, **Y. Zhang**, *et al.*, "*Search for axionlike dark matter using liquid-state nuclear magnetic resonance*," *Phys. Rev. D*, vol. 112, p. 052 008, 5 Sep. 2025. DOI: [10.1103/39nc-vr9m](https://doi.org/10.1103/39nc-vr9m).
 
@@ -66,7 +66,7 @@ Contribution: All calculations and analysis in this theoretical work / All manus
 
 ---
 
-### Education
+##  Education
 
 <div style="margin-left: 115px; text-indent: -115px;">
 2022 - Now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Ph.D.</i> in progress, Physics, University of Mainz.
@@ -92,7 +92,7 @@ Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin
 
 ---
 
-### Academic Presentations
+##  Academic Presentations
 
 <div style="margin-left: 115px; text-indent: -115px;">
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Academic Seminar of Chinese Students and Scholars in the German-French Region
@@ -125,7 +125,7 @@ Regular talk
 
 ---
 
-### Teaching
+##  Teaching
 
 <div style="margin-left: 115px; text-indent: -115px;">
 2025 - 2026&nbsp;&nbsp;&nbsp;&nbsp;Assistant in Magnetic resonance, Advanced physics laboratory course (F-Praktikum)
@@ -140,14 +140,14 @@ Winter Semester 2025/26, University of Mainz
 
 ---
 
-### CV / Resume
+##  CV / Resume
 
 <!-- [Download my CV (PDF)](assets/CV.pdf) -->
 [Download my One-Page Resume (PDF)](https://zenodo.org/records/18209548)
 
 ---
 
-### Languages
+##  Languages
 
 - **Chinese** - Native
 - **English** - Fluent (professional working proficiency)
