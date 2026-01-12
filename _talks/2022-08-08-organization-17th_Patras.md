@@ -1,7 +1,7 @@
 ---
-title: "Local organizer of the 17th Patras Workshop"
+title: "Local organizer - 17th Patras Workshop"
 collection: talks
-type: "Talk"
+type: "Organizer"
 permalink: /talks/2022-08-08-organization-17th_Patras
 venue: "17th Patras Workshop on Axions, WIMPs and WISPs"
 date: 2022-08-08

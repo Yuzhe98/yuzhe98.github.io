@@ -1,5 +1,5 @@
 ---
-title: "Seminar - Search for axion-like particle as dark matter candidate with nuclear magnetic resonance"
+title: "Talk - Search for axion-like particle as dark matter candidate with nuclear magnetic resonance"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-09-07-talk-ITP_CAS
