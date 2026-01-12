@@ -227,9 +227,7 @@ Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin
     <td style="width: 140px; vertical-align: top; border: none; padding: 0;">2024</td>
     <td style="border: none; padding: 0;">
       An education paper on scientific viewgraphs: <b>Y. Zhang</b> and D. Budker, "<i>Some rules of good scientific viewgraphs</i>," <a href="https://zenodo.org/records/13134573">https://zenodo.org/records/13134573 (2024)</a>;<br>
-      Later published in Chinese on 
-      <a href="http://www.jicejishu.net:8085/jcjs/article/abstract/20250213">
-      [J].Metrology & Measurement Technology 45(2):1-4 (2025)</a>
+      Later published in Chinese on <a href="http://www.jicejishu.net:8085/jcjs/article/abstract/20250213">[J].Metrology & Measurement Technology 45(2):1-4 (2025)</a>
     </td>
   </tr>
 </table>
