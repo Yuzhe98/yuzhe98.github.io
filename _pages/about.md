@@ -110,6 +110,31 @@ Thesis: <i>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin
   </tr>
 </table>
 
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="width: 120px; vertical-align: mid; border: none;">2022 – Now</td>
+    <td style="border: none;">
+      <i>Ph.D.</i> in progress, Physics, University of Mainz.<br>
+      Thesis: <em>Search for axion-like particle as dark matter candidate with nuclear magnetic resonance</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 120px; vertical-align: mid; border: none;">2020 – 2022</td>
+    <td style="border: none;">
+      Master of Science, Physics, University of Mainz.<br>
+      Thesis: <em>Search for axion-like particles by performing NMR on a thermally polarized sample</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 120px; vertical-align: mid; border: none;">2016 – 2020</td>
+    <td style="border: none;">
+      Bachelor of Science, Physics, University of Science and Technology of China.<br>
+      Thesis: <em>Data Analysis in the Earth Rotation Measurement Based on Nuclear Spin–Electron Spin System</em>
+    </td>
+  </tr>
+</table>
+
+
 
 ##  Academic Presentations
 <!-- |  |  |

@@ -14,7 +14,7 @@ locale                   : "en-US"
 site_theme               : "mint" 
 # site_theme               : "dirt" 
 # site_theme               : "contrast" 
-title                    : "Yuzhe Zhang's homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yuzhe ZHANG"
 description              : &description "Yuzhe's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
