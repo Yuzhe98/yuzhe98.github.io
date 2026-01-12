@@ -1,17 +1,5 @@
-<!-- ---
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, CA, USA"
 ---
-
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
-[https://itp.cas.cn/kxyj/xshd/xsbg/202209/t20220905_6508798.html] -->
----
-title: "Search for axion-like particle as dark matter candidate with nuclear magnetic resonance"
+title: "Seminar - Search for axion-like particle as dark matter candidate with nuclear magnetic resonance"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-09-07-talk-ITP_CAS
@@ -35,4 +23,4 @@ Axion originated from a solution to the strong-CP problem[1, 2]. During the past
 　　[4] Peter W. Graham and Surjeet Rajendran. “New observables for direct detection of axion dark matter”. In: Phys. Rev. D 88 (3 Aug. 2013), p. 035023. doi: 10.1103/PhysRevD.88.035023. url: https://link.aps.org/doi/10.1103/PhysRevD.88.035023.
 
 
-*See the original seminar announcement from the Institute of Theoretical Physics, CAS.* at [https://itp.cas.cn/kxyj/xshd/xsbg/202209/t20220905_6508798.html](https://itp.cas.cn/kxyj/xshd/xsbg/202209/t20220905_6508798.html)
+*See the original seminar announcement from the Institute of Theoretical Physics, CAS at* [https://itp.cas.cn/kxyj/xshd/xsbg/202209/t20220905_6508798.html](https://itp.cas.cn/kxyj/xshd/xsbg/202209/t20220905_6508798.html)

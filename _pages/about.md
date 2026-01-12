@@ -182,11 +182,6 @@ Regular talk
 </div> -->
 
 
-
-
-
-
-
 ##  Teaching
 
 <!-- <div style="margin-left: 112px; text-indent: -112px;">
@@ -205,7 +200,7 @@ Winter Semester 2025/26, University of Mainz
     <td style="width: 80px; vertical-align: mid;">2025 – 2026</td>
     <td>
       Assistant in Magnetic Resonance, Advanced Physics Laboratory Course (F-Praktikum)<br>
-      <em>Winter Semester 2025/26, University of Mainz</em>
+      <em>Assistant, Winter Semester 2025/26, University of Mainz</em>
     </td>
   </tr>
   <tr>
