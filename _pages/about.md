@@ -30,7 +30,7 @@ I am currently working at the cosmic axion spin precession experiment (**CASPEr*
 
 > [Learn more about the CASPEr Project](https://budker.uni-mainz.de/?page_id=7)
 
-Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by Prof. Dong Sheng. It was also fun! 
+Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by [Prof. Dong Sheng](https://atta.ustc.edu.cn/en-us/members/faculty/dsheng.html). It was also fun! 
 
 
 ##  Selected Publications
