@@ -2,7 +2,7 @@
 title: "Local organizer - 17th Patras Workshop"
 collection: talks
 type: "Organizer"
-permalink: /talks/2022-08-08-organization-17th_Patras
+permalink: /activities/2022-08-08-organization-17th_Patras
 venue: "17th Patras Workshop on Axions, WIMPs and WISPs"
 date: 2022-08-08
 location: "Mainz, Germany"
