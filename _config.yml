@@ -14,9 +14,9 @@ locale                   : "en-US"
 site_theme               : "mint" 
 # site_theme               : "dirt" 
 # site_theme               : "contrast" 
-title                    : "Home"
+title                    : "Yuzhe Zhang"
 title_separator          : "-"
-name                     : &name "Yuzhe ZHANG"
+name                     : &name "Yuzhe Zhang"  # Update this with your full name
 description              : &description "Yuzhe's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yuzhe98.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -29,9 +29,9 @@ repository               : "Yuzhe98/yuzhe98.github.io"
 author:
   # Biographic information
   avatar           : "Yuzhe.jpg"
-  name             : "张宇哲 Yuzhe ZHANG"
+  name             : "张宇哲 Yuzhe Zhang"
   pronouns         : "He/Him/His" # example: "she/her"  
-  bio              : "Ph.D. student in Physics"
+  bio              : "PhD student in Physics"
   researchgroup    : 
     name: "CASPEr Project, Budker Group"
     url: "https://budker.uni-mainz.de/?page_id=7"

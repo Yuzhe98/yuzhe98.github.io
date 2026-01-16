@@ -23,4 +23,4 @@ Galactic dark matter may consist of axionlike particles (ALPs) that can be descr
 
 - First and corresponding author.
 
-- Contribution: All calculations and analysis in this theoretical work / All manuscript writing / Coordination in the CASPEr collaboration.
+- Contribution: All theoretical calculations and analysis; full manuscript preparation; coordination within the collaboration. 

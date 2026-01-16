@@ -28,6 +28,6 @@ sensitivity beyond the astronomical limits.
 
 **Personal highlights**
 
-- One of three first authors in this first experimental result of CASPEr-Gradient. 
+- One of three first authors (equal contribution) in this first experimental result of CASPEr-Gradient.
 
-- Contribution: Construction of the apparatus and data taking / Calculations and analysis / Manuscript writing / Coordination in the CASPEr collaboration.
+- Contribution: Apparatus construction and data acquisition; calculations and analysis; manuscript writing; collaboration coordination.

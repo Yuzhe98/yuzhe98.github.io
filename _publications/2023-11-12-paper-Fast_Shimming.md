@@ -13,12 +13,10 @@ citation: 'J. Walter, H. Bekker, J. Blanchard, D. Budker, N. L. Figueroa, A. Wic
 '
 ---
 
-<!-- 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
-
 **Abstract** 
 
 The sensitivity and accessible mass range of magnetic resonance searches for axion-like dark matter depend on the homogeneity of applied magnetic fields. Optimizing homogeneity through shimming requires exploring a large parameter space, which can be prohibitively time consuming. The process of tuning the shim-coil currents has been automated by employing an algorithm based on Bayesian optimization. This method is especially suited for applications where the duration of a single optimization step prohibits exploring the parameter space extensively or when there is no prior information on the optimal operation point. Using the cosmic axion spin precession experiment-gradient low-field apparatus, it is shown that for the setup this method converges after ≈30 iterations to a sub-10 parts-per-million field homogeneity, which is desirable for our dark matter search.
 
 **Personal highlights**
 
-- Contribution: Construction of apparatus. Measurements. Algorithm optimization. 
+- Contribution: Apparatus construction, data acquisition, and algorithm optimization.
