@@ -16,6 +16,7 @@ site_theme               : "mint"
 # site_theme               : "contrast" 
 title                    : "Yuzhe Zhang"
 title_separator          : "-"
+homepage_title           : "About"
 name                     : &name "Yuzhe Zhang"  # Update this with your full name
 description              : &description "Yuzhe's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yuzhe98.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
