@@ -32,20 +32,22 @@ I am currently working at the cosmic axion spin precession experiment (**CASPEr*
 
 Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by [Prof. Dong Sheng](https://atta.ustc.edu.cn/en-us/members/faculty/dsheng.html). It was also fun! 
 
-
 ##  Selected Publications
 
 [1] J. Walter, O. Maliaka, **Y. Zhang**, *et al.*, "*Search for axionlike dark matter using liquid-state nuclear magnetic resonance*," *Phys. Rev. D*, vol. 112, p. 052 008, 5 Sep. 2025. DOI: [10.1103/39nc-vr9m](https://doi.org/10.1103/39nc-vr9m).
 
-- One of three first authors (equal contribution) in this first experimental result of CASPEr-Gradient.
-
-- Contribution: Apparatus construction and data acquisition; calculations and analysis; manuscript writing; collaboration coordination.
+- Commissioning results of the CASPEr-Gradient experiment.
+- Co--first author (equal contribution; 3 authors). Contributions: apparatus construction and commissioning; data acquisition; analytical calculations and data analysis; manuscript preparation; coordination within the collaboration.
 
 [2] **Y. Zhang**, D. A. Tumturk, H. Bekker, *et al.*, "*Frequency-scanning considerations in axionlike dark matter spin-precession experiments*," *Annalen der Physik*, vol. 536, no. 1, p. 2 300 223, 2024. DOI: [10.1002/andp.202300223](https://doi.org/10.1002/andp.202300223).
 
-- First and corresponding author.
+- Theocratic considerations on frequency scanning for axion haloscopes. 
+- First and corresponding author. Contributions: all theoretical calculations and analysis; full manuscript preparation; coordination within the collaboration. 
 
-- Contribution: All theoretical calculations and analysis; full manuscript preparation; coordination within the collaboration. 
+
+## Code developments
+
+[`AxionBloch`](https://github.com/Yuzhe98/AxionBloch) - Simulation tool for axion-induced spin dynamics using Bloch equations. 
 
 
 ##  Education
@@ -96,7 +98,7 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
     <td style="width: 140px; vertical-align: top; border: none; padding: 0;">2022</td>
     <td style="border: none; padding: 0;">
       17th Patras Workshop on Axions, WIMPs and WISPs<br>
-      <em>Local organizer</em>
+      <em>Local co-organizer</em>
     </td>
   </tr>
   <tr>
@@ -139,6 +141,6 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 ##  Languages
 
 - **Chinese** - Native
-- **English** - Fluent (professional working proficiency)
+- **English** - Professional working proficiency
 
 
