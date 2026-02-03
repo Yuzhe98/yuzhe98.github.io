@@ -45,7 +45,7 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 - First and corresponding author. Contributions: all theoretical calculations and analysis; full manuscript preparation; coordination within the collaboration. 
 
 
-## Code developments
+## Code Developments
 
 [`AxionBloch`](https://github.com/Yuzhe98/AxionBloch) - Simulation tool for axion-induced spin dynamics using Bloch equations. 
 
