@@ -20,8 +20,7 @@ I am currently working at the cosmic axion spin precession experiment (**CASPEr*
          style="width: 100%;">
 
     <p style="font-size: 0.9em; color: #666; margin-top: 10px; text-align: left;">
-      Constraints on axion's or axionlike particles' coupling to protons.
-      Projections are indicated by dashed lines.<br>
+      Constraints on axion's or axionlike particles' coupling to protons. Projections are indicated by dashed lines.<br>
       Credit: Ciaran O'Hare.
     </p>
   </div>
@@ -137,16 +136,16 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 
 [Download my One-Page Résumé (PDF)](https://seafile.rlp.net/seafhttp/f/8a1f391190a140efa64d/?op=view) updated on Jan 16, 2026
 
-<div style="text-align: center;">
-  <div style="max-width: 600px; width: 100%; margin: 0 auto;">
+<div style="max-width: 600px; margin: 0 auto;">
+  <div style="text-align: center;">
     <img src="images/CV_qrcode.png"
-         alt="CV"
-         style="width: 50%;">
-
-    <p style="font-size: 0.9em; color: #666; margin-top: 10px; text-align: left;">
-      Scan to download my CV
-    </p>
+         alt="CV QR code"
+         style="max-width: 300px; width: 50%;">
   </div>
+
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px; text-align: center;">
+    Scan to download my CV
+  </p>
 </div>
 
 ##  Languages
