@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Cavity, lumped-circuit, and spin-based detection of axion dark matter: differences and similarities"
 collection: publications
 category: manuscripts # manuscripts or conferences
 permalink: /publication/2026-03-27-paper-Haloscope-Comparison
