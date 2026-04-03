@@ -1,5 +1,5 @@
 ---
-title: "Magnetic resonance, Advanced physics laboratory course"
+title: "Advanced physics laboratory course - Magnetic resonance"
 collection: teaching
 type: "Assistant, Undergraduate & master course"
 permalink: /teaching/2025-winter-Magnetic_Resonance
