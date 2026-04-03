@@ -130,11 +130,11 @@ Before I came to the Budker group, I worked on Rb-Xe comagnetometer, advised by 
 </table>
 
 
-##  CV / Resume
+##  CV
 
-[Download my CV (PDF)](https://seafile.rlp.net/seafhttp/f/da3e0afc6b564bebb625/?op=view) updated on Feb 8, 2026
+[Download my CV (PDF)](https://seafile.rlp.net/seafhttp/f/f73e82b00e7245d2bb32/?op=view) updated on Apr 3, 2026
 
-[Download my One-Page Résumé (PDF)](https://seafile.rlp.net/seafhttp/f/8a1f391190a140efa64d/?op=view) updated on Jan 16, 2026
+<!-- [Download my One-Page Résumé (PDF)](https://seafile.rlp.net/seafhttp/f/8a1f391190a140efa64d/?op=view) updated on Jan 16, 2026 -->
 
 <div style="max-width: 600px; margin: 0 auto;">
   <div style="text-align: center;">
