@@ -9,7 +9,7 @@ venue: 'Physical Review D'
 slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: # 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: # 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'J. Walter, O. Maliaka, Y. Zhang, <i>et&nbsp;al.</i> (2025). &quot;Search for axionlike dark matter using liquid-state nuclear magnetic resonance.&quot; <i>Physical Review D</i>. 112, 052008. <a href="https://doi.org/10.1103/39nc-vr9m">doi:10.1103/39nc-vr9m</a>'
+citation: 'Walter, Julian; Maliaka, Olympia; Zhang, Yuzhe; Blanchard, John W.; Centers, Gary; Dogan, Arian; Engler, Martin; Figueroa, Nataniel L.; Kim, Younggeun; Kimball, Derek F. Jackson; Lawson, Matthew; Smith, Declan W.; Sushkov, Alexander O.; Budker, Dmitry; Bekker, Hendrik; Wickenbrock, Arne (2025). &quot;Search for axionlike dark matter using liquid-state nuclear magnetic resonance.&quot; <i>Physical Review D</i>. 112, 052008. <a href="https://doi.org/10.1103/39nc-vr9m">doi:10.1103/39nc-vr9m</a>'
 ---
 
 <!-- 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
@@ -31,3 +31,21 @@ sensitivity beyond the astronomical limits.
 - One of three first authors (equal contribution) in this first experimental result of CASPEr-Gradient.
 
 - Contribution: Apparatus construction and data acquisition; calculations and analysis; manuscript writing; collaboration coordination.
+
+
+<!-- @article{walter2025searchaxionlikedarkmatter,
+  title = {Search for axionlike dark matter using liquid-state nuclear magnetic resonance},
+  author = {Walter, Julian and Maliaka, Olympia and Zhang, Yuzhe and Blanchard, John W. and Centers, Gary and Dogan, Arian and Engler, Martin and Figueroa, Nataniel L. and Kim, Younggeun and Kimball, Derek F. Jackson and Lawson, Matthew and Smith, Declan W. and Sushkov, Alexander O. and Budker, Dmitry and Bekker, Hendrik and Wickenbrock, Arne},
+  journal = {Phys. Rev. D},
+    shortjournal = {Phys. Rev. D},
+  volume = {112},
+  issue = {5},
+  pages = {052008},
+  numpages = {15},
+  year = {2025},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/39nc-vr9m},
+  url = {https://link.aps.org/doi/10.1103/39nc-vr9m}
+} -->
+
